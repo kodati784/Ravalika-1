@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+if (grade>=70)
+{
+printf("C");
+}
+else
+{
+if (grade>=80)
+{
+printf("D");
+}
+}
+}
